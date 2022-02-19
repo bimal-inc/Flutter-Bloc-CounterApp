@@ -1,4 +1,4 @@
-# counterapp
+# counterapp using bloc -states and -events
 
 A new Flutter project.
 
